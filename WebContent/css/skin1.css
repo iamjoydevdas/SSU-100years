@@ -154,7 +154,7 @@ ul.pagination li a.active,
 }
 
 ul.megamenu li.current a{
-color: #4E2E28;	
+color: silver;	
 }
 
 /* 
@@ -251,7 +251,7 @@ td.active-time b:first-child,
 .header-area .megamenu_container .megamenu li .dropdown_container,
 .header-area .megamenu_container .megamenu li .dropdown_fullwidth,
 .header-area .megamenu_container .megamenu li .dropdown_flyout li ul{
-	background: #ff91a4;	
+	background: firebrick;	
 }
 
 
